@@ -1,0 +1,1 @@
+el proyexto con siste en crear 4 remas y sncronizarlos con un merg
