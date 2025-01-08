@@ -5,4 +5,4 @@ Contiene tres adivinanza
 3.refranes
 Contiene tres refranes
 1.trabalenguas
-Contiene tres trabalenguas
+Contiene tres trabalenguas.
